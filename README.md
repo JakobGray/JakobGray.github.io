@@ -7,3 +7,8 @@ View the website [here](https://jakobgray.github.io/)
 - About me page
 - Resume
 - Likely another page or two of stuff
+
+### Projects
+- First website
+- First app
+- School projects
